@@ -5,3 +5,18 @@ A web forum where users can share traffic updates (jams,diversions,construction 
 - Landing Page (Home Page) - Basic HTML script.
 - Forum - [phpBB3](https://www.phpbb.com/ "phpBB3") based (no registration/login required) - Only admin and moderator login.
 - Reporting - Tweets to state traffic police using Twitter API.
+
+How to use - 
+
+Create local host using laragon/xampp then
+
+1. Paste landing page files in C:\laragon\www
+2. Paste phpbb3 folder in C:\laragon\www
+3. Type 'localhost/Home.html'  in browser URL to open landing page
+4. Type 'localhost/phpbb3' in browser URL to run Traffic forum
+
+
+
+
+
+

@@ -14,7 +14,7 @@ Create local host using laragon/xampp then
 2. Paste phpbb3 folder in C:\laragon\www
 3. Type 'localhost/Home.html'  in browser URL to open landing page
 4. Type 'localhost/phpbb3' in browser URL to run Traffic forum
-
+5. The "Forum" tab (in Home.html) has to be linked to the "index.php" file (in phpbb3).
 
 
 
